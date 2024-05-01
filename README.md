@@ -42,3 +42,13 @@ code index.html
 ```
 Right click to open live server on vs code.
 ```
+
+  
+  
+<h2>💻 Built with</h2>
+
+Technologies used in the project:
+
+*   HTML
+*   CSS
+*   Bootstrap
