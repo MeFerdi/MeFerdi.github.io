@@ -22,19 +22,23 @@ Here're some of the project's best features:
 <p>1. Running the program on local machine</p>
 
 ```
-git clone https://github.com/username/my-portfolio.git
+git clone https://github.com/username/My_portfolio.git
 ```
 
 <p>2. Running the code</p>
 
 ```
-Cd My-Portfolio
+Cd My_Portfolio
 ```
 
 ```
-Code index.html
+Cd MeFerdi.github.io
 ```
 
 ```
-Right click to open live server.
+code index.html
+```
+
+```
+Right click to open live server on vs code.
 ```
